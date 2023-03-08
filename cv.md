@@ -8,6 +8,7 @@
 I learn Front-End Development in RSSchool! I'm practice with the goal of improvement.
 
 ## Skills
+* TypeScript
 * HTML
 * CSS
 * JavaScript (Basic)
