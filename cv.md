@@ -1,17 +1,17 @@
 # Miras Suleymen
 
 ## Contacts
-* Telegram: [@AfishaRSSchool](https://t.me/AfishaRSSchool)
+* Telegram: [Telegram](https://t.me/beatingtheaverages)
 * Discord: (https://discord.com/invite/zUr7wWYPXE)
 
 ## About Me
-I learn Front-End Development in RSSchool! I'm practice with the goal of improvement.
+Open to work - I am actively seeking new opportunities and would be interested in hearing about any relevant roles.
 
 ## Skills
 * TypeScript
 * HTML
-* CSS
-* JavaScript (Basic)
+* CSS, SCSS
+* JavaScript
 * Git, GitHub
 * Figma
 * Adobe After Effects
